@@ -15,7 +15,6 @@ int insertElement(int L[], int n, int x) {
 		move++;
 	}
 
-
 	L[k] = x;
 	return move;
 }
@@ -31,7 +30,7 @@ int deleteElement(int L[], int n, int x) {
 
 	if (i == n)move = n;
 
-	for (i = k; i < n; i++) {
+	for (i = k; i < n-1; i++) {
 		L[i] = L[i + 1];
 		move++;
 	}

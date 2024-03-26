@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\github\\ds\\ds3_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|C:\\github\\ds\\ds3_1\\ds3_1\\ex3_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|solutionrelative:ds3_1\\ex3_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|C:\\github\\ds\\ds3_1\\ds3_1\\listS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|solutionrelative:ds3_1\\listS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|C:\\github\\ds\\ds3_1\\ds3_1\\listS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|solutionrelative:ds3_1\\listS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|C:\\github\\ds\\ds3_1\\ds3_1\\listS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|solutionrelative:ds3_1\\listS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|C:\\github\\ds\\ds3_1\\ds3_1\\ex3_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{887654AC-500E-4612-8007-9DE3AEF9353F}|ds3_1\\ds3_1.vcxproj|solutionrelative:ds3_1\\ex3_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ex3_4.c",
               "DocumentMoniker": "C:\\github\\ds\\ds3_1\\ds3_1\\ex3_4.c",
               "RelativeDocumentMoniker": "ds3_1\\ex3_4.c",
               "ToolTip": "C:\\github\\ds\\ds3_1\\ds3_1\\ex3_4.c",
               "RelativeToolTip": "ds3_1\\ex3_4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-24T07:42:03.898Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "listS.c",
               "DocumentMoniker": "C:\\github\\ds\\ds3_1\\ds3_1\\listS.c",
               "RelativeDocumentMoniker": "ds3_1\\listS.c",
               "ToolTip": "C:\\github\\ds\\ds3_1\\ds3_1\\listS.c",
               "RelativeToolTip": "ds3_1\\listS.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-24T07:38:05.236Z",
               "EditorCaption": ""
